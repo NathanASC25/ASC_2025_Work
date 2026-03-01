@@ -1,0 +1,28 @@
+div{
+    font-family: Helvetica;
+    background-color: gray;
+    color: white;
+    font-size: 32px;
+    padding: 5px;
+}
+
+nav{
+    display: flex;
+    background-color: grey;
+    padding: 5px;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+img{
+    width: 60px;
+}
+
+.item:hover{
+    background-color: lightskyblue;
+    opacity: 0.5;
+}
+
+a{
+    text-decoration: none;
+}

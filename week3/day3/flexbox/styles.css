@@ -1,0 +1,48 @@
+body {
+   font-family: Helvetica;
+   font-size: 20px;
+   font-weight: bold;
+}
+
+h1 {
+   text-align: center;
+}
+
+img {
+   width: 200px;
+}
+
+#one{
+    background-color: green;
+    justify-content: center;
+    flex-direction: row;
+}
+
+#two{
+    background-color: blue;
+    justify-content: flex-start;
+    align-items: flex-end;
+    flex-direction: column-reverse;
+}
+
+#three{
+    background-color: red;
+    justify-content: flex-end;
+    flex-direction: row-reverse;
+}
+
+#four{
+    background-color: orange;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+div{
+    border: 3px solid black;
+    display: flex;
+}
+
+body{
+    display: flex;
+    flex-direction: column-reverse;
+}
