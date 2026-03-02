@@ -1,2 +1,2 @@
 - dom_project: https://github.com/NathanASC25/dom_project
-- events_project: https://github.com/NathanASC25/events_project
+- events_project: https://github.com/NathanASC25/events-project
